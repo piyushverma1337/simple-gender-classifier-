@@ -4,3 +4,5 @@ very basic gender classifier based on DecisonTreeClassifier in sklearn trained u
 Script accepts user input for the above variables and outputs the predicted gender.
 
 Added second script that visualizes the tree using Graphviz, either on IPython notebook or output to a file.
+
+![alt text](https://github.com/semiauto7/simple-gender-classifier-/blob/master/dtree.png)
